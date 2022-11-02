@@ -1,5 +1,4 @@
-# Operating-Systems
-## Memory Virtualization
+# Memory Virtualization
 This project is about memory virtualization using page tables. Single
 level page tables are implemented, along with an API to simulate the memory, given a 200 MB RAM, to be used by OS to create and
 manage user-processes. The first portion of the RAM will be used by the OS and the remaining will be assigned to
